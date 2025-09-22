@@ -6,7 +6,7 @@ Agregar nombres de amigos a una lista.
 
 Realizar un sorteo aleatorio para elegir un amigo secreto.
 
-Está desarrollado con HTML, CSS y JavaScript y no requiere instalaciones adicionales, solo un navegador moderno.
+Está desarrollado con HTML, CSS y JavaScript.
 
 <details> <summary> Funcionalidades</summary>
 
